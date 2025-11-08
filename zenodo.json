@@ -1,0 +1,26 @@
+{
+  "title": "n-term Hypothesis and Oscillation Framework",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "description": "This repository contains the final documentation, LaTeX source, and Python scripts for a new extremal framework in number theory. It introduces the n-term hypothesis, oscillation behavior, and rarity-density metrics for Diophantine representations.",
+  "creators": [
+    {
+      "name": "Tatai, László",
+      "orcid": "0009-0007-5153-6306"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "number theory",
+    "Diophantine equations",
+    "extremal mathematics",
+    "oscillation",
+    "rarity-density"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/laszlo/n-term-hypothesis"
+    }
+  ]
+}
