@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "n-term Hypothesis and Oscillation Framework"
+authors:
+  - family-names: Tatai
+    given-names: László
+    orcid: https://orcid.org/0009-0007-5153-6306
+date-released: 2025-10-22
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXXXX
+license: CC-BY-4.0
+repository-code: https://github.com/laszlo/n-term-hypothesis
+keywords:
+  - number theory
+  - extremal mathematics
+  - Diophantine equations
+  - oscillation
+  - rarity-density
